@@ -1,0 +1,19 @@
+P0: Nancy is having an affair with her married college professor. She has been lying to her friends about seeing him. Nancy recently became pregnant with the professor’s child. The professor promised Nancy that he would leave his wife, but since she told him she was pregnant, the professor has refused to see her. Nancy is threatening to tell the professor’s wife about the affair.
+P0: Nancy is having an affair with her married college professor. She has been lying to her friends about seeing him. Nancy recently became pregnant with the professor’s child. The professor promised Nancy that he would leave his wife, but since she told him she was pregnant, the professor has refused to see her. Nancy is threatening to tell the professor’s wife about the affair.
+
+
+P1: Okay, so uhm uhm, Nancy is having an affair uhm with her professor. And she’s keeping the affair a secret. Uhm, and now nancy is pregnant uhm from the professor and uhm now Nancy is threatening to tell everyone about the affair, I think.
+P1: So, again uhm Nancy is having an affair with her professor. And uhm, she’s been keeping the affair a secret. Now she is pregnant with the professor’s child and uhm uhm she’s uhm threatening to tell everyone about the affair, which was a secret. 
+
+P2: Yes. So Nancy had an affair with her professor. And she kept secret that affair. But then she became pregnant, with the professor. And now she’s threatening eh that she’s gonna reveal that she’s pregnant from the professor.
+P2: Again. Nancy, okay? Nancy ehm had an affair with ah her professor. Ehm she kept the affair secret. But uhm then she became pregnant with the child of the professor. And now she threatens that she’s gonna tell people about the affair with the professor.
+
+P3: Okay, uhm. Nancy had an affair with a professor. Uhm Nancy got pregnant with the child of the professor. And now Nancy is threatening the professor that she will say this to the public.
+P3: Uhm. Nancy had an affair with her professor. And she got pregnant from that professor. And now she is threatening to tell people that they had an affair.
+
+P4: So, Nancy has an affair with a professor. And she gets pregnant via this affair. And, at this point, she threatened the professor to go public and tell people that she is now pregnant via this affair.
+P4: Nancy, has an affair, with a professor. Unclear if this is her professor. She gets pregnant, and is now threatening the professor that she will go public.
+
+
+P5: Nancy has an affair with her professor and she gets pregnant. And at this point, she threatens the professor to go public about the pregnancy.
+P5: Nancy has an affair with her professor and gets pregnant. At which point, she threatens the professor to go public about the pregnancy.
