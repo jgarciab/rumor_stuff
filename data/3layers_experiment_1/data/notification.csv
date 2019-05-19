@@ -1,0 +1,2 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,assignment_id,event_type
+1,2019-05-18 23:44:59.148143,,,,,,f,,"{""feedback"": ""Saw errors message as soon as I clicked on the HIT. Unable to do HIT on tablet or laptop. "", ""error_text"": ""There has been an error and so you are unable to\r\n        continue, sorry!"", ""error_type"": ""browser_type_not_allowed"", ""request_data"": {""hit_id"": null, ""worker_id"": null, ""participant_id"": null}}",unknown,ExperimentError
