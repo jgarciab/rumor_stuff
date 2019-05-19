@@ -1,0 +1,36 @@
+id	condition	layer_n	jaccard_previous_layer	jaccard_original_story	language	education	age	ideology	technical_issues	confusion	engagement	difficulty
+3layers_experiment_1.csv	network	1.0	0.1989247311827957	0.1989247311827957	Yes	6	1.0	2	No.	No.	8	4
+3layers_experiment_1.csv	network	1.0	0.19696969696969696	0.19696969696969696	Yes	6	1.0	5	no	no	10	2
+3layers_experiment_1.csv	network	2.0	0.17041984732824428	0.08598726114649681	Yes	5	2.0	5	No	No I di wonder if there should be a word count so one knows if they written enough	10	6
+3layers_experiment_1.csv	network	2.0	0.17281072939826436	0.11214953271028037	Yes	7	2.0	6	none	no problems	5	6
+3layers_experiment_1.csv	network	3.0	0.1923414527101163	0.07476635514018691	Yes	6	2.0	4	No	No	10	2
+3layers_experiment_1.csv	network	3.0	0.2700642054574639	0.08598726114649681	Yes	3	1.0	6	no	no	10	1
+3layers_experiment_2.csv	network	1.0	0.1373134328358209	0.1373134328358209	Yes	2	2.0	10	none	none	10	1
+3layers_experiment_2.csv	network	2.0	0.3359375	0.09792284866468842	Yes	3		3	no	no	10	3
+3layers_experiment_2.csv	network	2.0	0.264	0.0950920245398773	Yes	3	0.0	10	No.	No.	10	4
+3layers_experiment_2.csv	network	3.0	0.1816905722015211	0.12023460410557185	Yes	6	1.0	9	no	no	10	1
+3layers_experiment_2.csv	network	3.0	0.31449106449106445	0.1111111111111111	Yes	6	2.0	8	no	no	10	6
+3layers_experiment_2.csv	network	4.0	0.04334582942830366	0.023972602739726026	Yes	6	2.0	5			10	1
+3layers_experiment_3.csv	network	1.0	0.16717325227963525	0.16717325227963525	Yes	4	1.0	2	No	No	10	7
+3layers_experiment_3.csv	network	2.0	0.3826086956521739	0.11635220125786164	Yes	7	3.0	6	I didn’t have any problems with the survey either technically or in understanding the questions.  	There were no problems with the survey, technical or otherwise	10	7
+3layers_experiment_3.csv	network	2.0	0.2553191489361702	0.1303030303030303	Yes	6	0.0	8			8	2
+3layers_experiment_3.csv	network	3.0	0.22940074906367042	0.07936507936507936	No	3	1.0	7	Not at all.	No.	10	5
+3layers_experiment_3.csv	network	3.0	0.1875	0.05351170568561873	Yes	6	2.0	1	no	no	9	4
+3layers_experiment_3.csv	network	4.0	0.24701036407121976	0.0749185667752443	Yes	3	2.0	10	No	No	10	3
+4layers_experiment_2.csv	network	1.0	0.1373134328358209	0.1373134328358209	Yes	2	2.0	10	none	none	10	1
+4layers_experiment_2.csv	network	2.0	0.3359375	0.09792284866468842	Yes	3		3	no	no	10	3
+4layers_experiment_2.csv	network	2.0	0.264	0.0950920245398773	Yes	3	0.0	10	No.	No.	10	4
+4layers_experiment_2.csv	network	3.0	0.1816905722015211	0.12023460410557185	Yes	6	1.0	9	no	no	10	1
+4layers_experiment_2.csv	network	3.0	0.31449106449106445	0.1111111111111111	Yes	6	2.0	8	no	no	10	6
+4layers_experiment_2.csv	network	4.0	0.04334582942830366	0.023972602739726026	Yes	6	2.0	5			10	1
+4layers_experiment_2.csv	network	4.0	0.2777355623100304	0.09841269841269841	Yes	6	3.0	8	No	No	8	4
+4layers_experiment_2.csv	network	5.0	0.22414490993725966	0.10543130990415335	Yes	5	3.0	5	None	No	10	5
+4layers_experiment_3.csv	network	1.0	0.16717325227963525	0.16717325227963525	Yes	4	1.0	2	No	No	10	7
+4layers_experiment_3.csv	network	2.0	0.3826086956521739	0.11635220125786164	Yes	7	3.0	6	I didn’t have any problems with the survey either technically or in understanding the questions.  	There were no problems with the survey, technical or otherwise	10	7
+4layers_experiment_3.csv	network	2.0	0.2553191489361702	0.1303030303030303	Yes	6	0.0	8			8	2
+4layers_experiment_3.csv	network	3.0	0.22940074906367042	0.07936507936507936	No	3	1.0	7	Not at all.	No.	10	5
+4layers_experiment_3.csv	network	3.0	0.1875	0.05351170568561873	Yes	6	2.0	1	no	no	9	4
+4layers_experiment_3.csv	network	4.0	0.24701036407121976	0.0749185667752443	Yes	3	2.0	10	No	No	10	3
+4layers_experiment_3.csv	network	4.0	0.16052934407364788	0.06796116504854369	Yes	2	1.0	8			10	1
+4layers_experiment_3.csv	network	5.0	0.25899778516057587	0.10526315789473684	Yes	6	1.0	8			10	3
+4layers_experiment_3.csv	network	5.0	0.3119047619047619	0.05501618122977346	Yes	1	1.0	8	No	No	10	1
